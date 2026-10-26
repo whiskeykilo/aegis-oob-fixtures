@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"marker": "AEGISBRMARKER1"}, "geometry": {"type": "Point", "coordinates": [-122.4094, 37.7749]}}, {"type": "Feature", "properties": {"marker": "AEGISBRMARKER2"}, "geometry": {"type": "Point", "coordinates": [-122.4294, 37.7749]}}]}
